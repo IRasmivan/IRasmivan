@@ -44,6 +44,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [docker file](https://www.youtube.com/watch?v=F5OexKwnCmE)
+- [Bubble sort in javascript](https://www.youtube.com/watch?v=FhG-TFePAkI)
+- [Insertion sort in javascript](https://www.youtube.com/watch?v=EyyVji6uIRk)
+- [Selection sort in javascript](https://www.youtube.com/watch?v=TiTF1kBynq8)
+- [Docker overview and docker commands in under 20 mins!](https://www.youtube.com/watch?v=GsbaiU94k6U)
 <!-- YOUTUBE:END -->
 
 ---
