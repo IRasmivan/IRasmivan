@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning mainly Scala 
 - 🌱 I’m also currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to run 🏃 long distance.
 
 ### Connect with me:
