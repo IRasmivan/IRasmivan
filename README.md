@@ -57,6 +57,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+![](https://komarev.com/ghpvc/?username=IRasmivan&label=PROFILE+VIEWS)
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=irasmivan&show_icons=true&hide_border=true" />
 
@@ -65,3 +66,5 @@
 [youtube]: https://www.youtube.com/channel/UC-jobn9F2sqbevsGkhUgUKQ
 [instagram]: https://instagram.com/rasmivan
 [linkedin]: https://www.linkedin.com/in/rasmivan-ilangovan-a9853b70/
+
+
