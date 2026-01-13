@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning mainly Scala 
 - 🌱 I’m also currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Do some projects on AI/ML.
+- 🥅 2026 Goals: Do some projects on AI/ML.
 - ⚡ Fun fact: I love to run 🏃 long distance.
 
 ### Connect with me:
