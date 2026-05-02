@@ -59,7 +59,7 @@
 ---
 ![](https://komarev.com/ghpvc/?username=IRasmivan&label=PROFILE+VIEWS)
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=irasmivan&show_icons=true&hide_border=true" />
+<img align="left" alt="Rasmivan's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irasmivan&show_icons=true&hide_border=true" />
 
 [website]: https://rasmivan.com
 [twitter]: https://twitter.com/rasmivan
